@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-color:rgb(204, 176, 142);
+}
+form{
+    background-color:rgb(88, 133, 15);
+    text-align: center;
+    padding-bottom: 4em;
+    margin:auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    
+    width: 650px; 
+    height: 500px; 
+    margin: 50px auto;
+    
+}
+
+input{
+    text-align:center;
+    color:black;
+    background-color:aquamarine;
+    font-weight: bold;
+    font-size: 1.15em;
+    border-radius: 5px;
+    margin-bottom:20px;
+    padding: 7px;
+    
+}
+
+#myH1{
+    color: rgb(167, 18, 18);
+    padding: 20px;
+    font-size: 3.75em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#myP1{
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 1em;
+}
+
+
+#myB{
+    background-color:rgb(28, 59, 197);
+    border: 2px darkblue solid;
+    border-radius: 5px;
+    font-size:1.25em;
+    margin-left: 15px;
+    margin-top: 15px;
+    color:greenyellow ;
+    padding: 7px;
+}
+
+#myB:hover{
+    background-color: aqua;
+    cursor:pointer;
+}
+
+#myB:active{
+    background-color: rgb(37, 165, 224);
+}
+div{
+font-size: 1.75em;
+padding-top:40px;
+}
